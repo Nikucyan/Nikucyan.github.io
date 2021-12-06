@@ -11,7 +11,9 @@ pretty_urls:
   trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
-show_downloads: true
+show_downloads: false
+
+logo: /assets/img/logo.png
 
 # theme: jekyll-theme-cayman
 # theme: Anatolo
