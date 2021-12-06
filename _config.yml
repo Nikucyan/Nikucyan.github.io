@@ -1,15 +1,15 @@
-# Site
-title: Shanyin's Home
-subtitle: ''
-description: 'Blog | Notebooks | Sharing | Everything'
-keywords: 
-author: 狂乱山音
-language: en
-timezone: 'Asia/Shanghai'
+# # Site
+# title: Shanyin's Home
+# subtitle: ''
+# description: 'Blog | Notebooks | Sharing | Everything'
+# keywords: 
+# author: 狂乱山音
+# language: en
+# timezone: 'Asia/Shanghai'
 
-pretty_urls:
-  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: false # Set to false to remove trailing '.html' from permalinks
+# pretty_urls:
+#   trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+#   trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 
 theme: jekyll-theme-cayman
