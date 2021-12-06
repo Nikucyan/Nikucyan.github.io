@@ -1172,13 +1172,13 @@ Sort triangle edge triples: edge vertex index 0 & 1 and triangle index (index 0 
    {0, 3, 2}, {3, 4, 2}, {0, 4, 2}]	// Green triangle: {1, 2} for edge index; {0} at the end for triangle index
   ```
 
-- Sorted triple list: `{{0, 1, 1}, {0, 3, 1}, {0, 3, 2}, {0, 4, 2}, {1, 2, 0}, {1, 3, 0}, {1, 3, 1}, {2, 3, 0},  {3, 4, 2}}`
+- Sorted triple list: `[{0, 1, 1}, {0, 3, 1}, {0, 3, 2}, {0, 4, 2}, {1, 2, 0}, {1, 3, 0}, {1, 3, 1}, {2, 3, 0},  {3, 4, 2}]`
 
   Repeated edges `{1, 3, 0}|{1, 3, 1}` & `{0, 3, 1}|{0, 3, 2}` shows in the neighbor => eliminate
 
-- **Final edge list:** `{{0, 1}, {0, 3}, {0, 4}, {1, 2}, {1, 3}, {2, 3}, {3, 4}}`
+- **Final edge list:** `[{0, 1}, {0, 3}, {0, 4}, {1, 2}, {1, 3}, {2, 3}, {3, 4}]`
 
-  **Neighboring triangle list**: `{{1, 2}, {0, 1}}` (for bending) (or use neighboring edge list)
+  **Neighboring triangle list**: `[{1, 2}, {0, 1}]` (for bending) (or use neighboring edge list)
 
 ### Integrators
 
