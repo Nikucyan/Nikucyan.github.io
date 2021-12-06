@@ -1167,7 +1167,9 @@ Sort triangle edge triples: edge vertex index 0 & 1 and triangle index (index 0 
 - Triple list: 
 
   ``` c
-  {{1, 2, 0}, {2, 3, 0}, {1, 3, 0},	{0, 1, 1}, {1, 3, 1}, {0, 3, 1},   {0, 3, 2}, {3, 4, 2}, {0, 4, 2}}	// Green triangle: {1, 2} for edge index; {0} at the end for triangle index
+  [{1, 2, 0}, {2, 3, 0}, {1, 3, 0},	
+   {0, 1, 1}, {1, 3, 1}, {0, 3, 1},   
+   {0, 3, 2}, {3, 4, 2}, {0, 4, 2}]	// Green triangle: {1, 2} for edge index; {0} at the end for triangle index
   ```
 
 - Sorted triple list: `{{0, 1, 1}, {0, 3, 1}, {0, 3, 2}, {0, 4, 2}, {1, 2, 0}, {1, 3, 0}, {1, 3, 1}, {2, 3, 0},  {3, 4, 2}}`
