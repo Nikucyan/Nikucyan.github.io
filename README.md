@@ -4,6 +4,13 @@
 
 
 
+## Sharing
+
+- [Software Recommendation - Scientific Text Editing](https://github.com/Nikucyan/Share/blob/main/Documents/Scientific.md) (Completed on 2021.9.10)
+- Software Recommendation - Scientific Illustration (On the way)
+
+SP-1. [Anime Photo Info Searching](https://github.com/Nikucyan/Share/blob/main/Documents/Anime_Ill_Search.md)
+
 
 
 ## Notebooks
