@@ -33,11 +33,13 @@ SP-1. [Anime Photo Info Searching](https://github.com/Nikucyan/Share/blob/main/D
 
 -->
 
-## [Sharing](https://nikucyan.github.io/sources/Sharing/Sharing)
+
+
+## [![Notebooks](https://nikucyan.github.io/assets/img/Notebooks_banner.jpg)](https://nikucyan.github.io/sources/Notebooks/Notebooks)
 
 ---
 
-## [Notebooks](https://nikucyan.github.io/sources/Notebooks/Notebooks)
+## [Sharing (WIP)](https://nikucyan.github.io/sources/Sharing/Sharing)
 
 ---
 
