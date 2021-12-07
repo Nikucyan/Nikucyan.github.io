@@ -50,3 +50,7 @@
 
 ## Game Design
 
+- **Platinum Games Studio** 
+
+  [Notebook](https://nikucyan.github.io/sources/Notebooks/Game_Design/Platinium_Games_Course) | [Videos](https://www.bilibili.com/cheese/play/ep11043)
+
