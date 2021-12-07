@@ -329,8 +329,8 @@ int main() {
 
 ##### Initialization
 
-- `double matrix[2][3] = {{1, 2, 3}, {4, 5, 6}};`	(2 lines, 3 col)
-- `double mat[2][3] = {{0}};`
+- `double matrix[2][3] = [{1, 2, 3}, {4, 5, 6}];`	(2 lines, 3 col)
+- `double mat[2][3] = [{0}];`
 
 ##### Example: Blur a Picture
 
