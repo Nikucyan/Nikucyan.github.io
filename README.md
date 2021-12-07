@@ -1,7 +1,7 @@
-# My notebooks / codes / works…
+# My Notebooks / Thoughts / Works…
 
 
-
+<!--
 ## Sharing
 
 - [Software Recommendation - Scientific Text Editing](https://github.com/Nikucyan/Share/blob/main/Documents/Scientific.md) (Completed on 2021.9.10)
@@ -27,5 +27,15 @@ SP-1. [Anime Photo Info Searching](https://github.com/Nikucyan/Share/blob/main/D
 
   
 
+-->
 
+## [Sharing](https://nikucyan.github.io/sources/Sharing/Sharing)
+
+</br>
+
+## [Notebooks](https://nikucyan.github.io/sources/Notebooks/Notebooks)
+
+</br>
+
+## [To be updated]()
 

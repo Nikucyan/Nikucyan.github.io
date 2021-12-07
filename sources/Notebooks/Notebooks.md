@@ -2,9 +2,9 @@
 
 > Personal Notebooks
 
+</br>
 
-
-### Computer Graphics
+## Computer Graphics
 
 [![Badge](https://img.shields.io/badge/CG__Notes-Repo%20-informational)](https://github.com/Nikucyan/Notes_of_Graphics/tree/main)
 
@@ -16,9 +16,9 @@
   
 - **GAMES202 - Advanced Physics Engine / Taichi Graphic Course S1**
 
+</br>
 
-
-### (Computational) Fluid Dynamics
+## (Computational) Fluid Dynamics
 
 - **Fluid Dynamics (Review)**
 
@@ -28,9 +28,9 @@
 
 - **Finite Volume Method in CFD**
 
+</br>
 
-
-### Misc in Computer Science
+## Misc in Computer Science
 
 [![Badge](https://img.shields.io/badge/Misc__Notes-Repo%20-informational)](https://github.com/Nikucyan/Notes_of_Misc)
 
@@ -38,15 +38,15 @@
 
   [Notebook](https://nikucyan.github.io/sources/Notebooks/Misc/C) | [Videos](https://www.bilibili.com/video/BV1Q44y1x7Q4)
 
-- **Matlibplot** 
+- **Matplotlib** 
 
-  [Notebook](https://nikucyan.github.io/sources/Notebooks/Misc/Matlibplot) | [Videos](https://www.bilibili.com/video/BV1Jx411L7LU)
+  [Notebook](https://nikucyan.github.io/sources/Notebooks/Misc/Matplotlib) | [Codes](https://github.com/Nikucyan/Notes_of_Misc/tree/main/Matplotlib/Scripts) | [Videos](https://www.bilibili.com/video/BV1Jx411L7LU)
 
 - **Git Branching** 
 
   [Notebook](https://nikucyan.github.io/sources/Notebooks/Misc/Git) | [Site](https://learngitbranching.js.org/?NODEMO) | [Original Proj on GitHub](https://github.com/pcottle/learnGitBranching)
 
+</br>
 
-
-### Game Design
+## Game Design
 
