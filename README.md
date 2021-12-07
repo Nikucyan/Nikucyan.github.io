@@ -1,5 +1,9 @@
 # My Notebooks / Thoughts / Works…
 
+---
+
+
+
 
 <!--
 ## Sharing
@@ -31,11 +35,11 @@ SP-1. [Anime Photo Info Searching](https://github.com/Nikucyan/Share/blob/main/D
 
 ## [Sharing](https://nikucyan.github.io/sources/Sharing/Sharing)
 
-</br>
+---
 
 ## [Notebooks](https://nikucyan.github.io/sources/Notebooks/Notebooks)
 
-</br>
+---
 
 ## [To be updated]()
 

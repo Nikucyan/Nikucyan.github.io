@@ -2,7 +2,7 @@
 
 > Personal Notebooks
 
-</br>
+---
 
 ## Computer Graphics
 
@@ -16,7 +16,7 @@
   
 - **GAMES202 - Advanced Physics Engine / Taichi Graphic Course S1**
 
-</br>
+---
 
 ## (Computational) Fluid Dynamics
 
@@ -28,7 +28,7 @@
 
 - **Finite Volume Method in CFD**
 
-</br>
+---
 
 ## Misc in Computer Science
 
@@ -46,7 +46,7 @@
 
   [Notebook](https://nikucyan.github.io/sources/Notebooks/Misc/Git) | [Site](https://learngitbranching.js.org/?NODEMO) | [Original Proj on GitHub](https://github.com/pcottle/learnGitBranching)
 
-</br>
+---
 
 ## Game Design
 
