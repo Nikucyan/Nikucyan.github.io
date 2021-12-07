@@ -2,7 +2,7 @@
 
 > Personal Notebooks
 
----
+![banner](https://nikucyan.github.io/assets/img/Notebooks_banner.jpg)
 
 ## Computer Graphics
 
