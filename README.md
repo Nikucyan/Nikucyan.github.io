@@ -39,7 +39,7 @@ SP-1. [Anime Photo Info Searching](https://github.com/Nikucyan/Share/blob/main/D
 
 ---
 
-## [Sharing (WIP)](https://nikucyan.github.io/sources/Sharing/Sharing)
+## [![](https://nikucyan.github.io/assets/img/Sharing_banner.png)](https://nikucyan.github.io/sources/Sharing/Sharing)
 
 ---
 
