@@ -35,13 +35,15 @@ SP-1. [Anime Photo Info Searching](https://github.com/Nikucyan/Share/blob/main/D
 
 
 
-## [![Notebooks](https://nikucyan.github.io/assets/img/Notebooks_banner.jpg)](https://nikucyan.github.io/sources/Notebooks/Notebooks)
+[![Notebooks](https://nikucyan.github.io/assets/img/Notebooks_banner.png)](https://nikucyan.github.io/sources/Notebooks/Notebooks)
+
+## [Personal Notebooks](https://nikucyan.github.io/sources/Notebooks/Notebooks)
 
 ---
 
-## [![](https://nikucyan.github.io/assets/img/Sharing_banner.png)](https://nikucyan.github.io/sources/Sharing/Sharing)
+[![](https://nikucyan.github.io/assets/img/Sharing_banner.png)](https://nikucyan.github.io/sources/Sharing/Sharing)
 
----
+## [Sharing](https://nikucyan.github.io/sources/Sharing/Sharing) 
 
 ## [To be updated]()
 

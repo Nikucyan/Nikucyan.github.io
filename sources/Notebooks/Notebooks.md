@@ -2,33 +2,29 @@
 
 > Personal Notebooks
 
-![banner](https://nikucyan.github.io/assets/img/Notebooks_banner.jpg)
+![banner](https://nikucyan.github.io/assets/img/Notebooks_banner.png)
 
-## Computer Graphics
+## [Computer Graphics](https://nikucyan.github.io/sources/Notebooks/Graphics/CG) 
 
-[![Badge](https://img.shields.io/badge/CG__Notes-Repo-informational)](https://github.com/Nikucyan/Notes_of_Graphics/tree/main)
+This page hosts my notes and some homeworks in **computer graphics**. These courses are mainly from *GAMES (Graphics and Mixed Environment Seminar)* and *Taichi Graphics Course*. The major topics are **rendering** and **physics-based animations**.
 
-- **GAMES101 - Modern Computer Graphics**
+Following notebooks are updating:
 
-- **GAMES103 - Physics-Based Animation**
-
-  [![Badge](https://img.shields.io/badge/GAMES103-Repo-informational)](https://github.com/Nikucyan/Notes_of_Graphics/tree/main/GAMES103) [![Badge](https://img.shields.io/badge/GAMES103-Notes-red)](https://nikucyan.github.io/sources/Notebooks/Graphics/GAMES103.html) [![Badge](https://img.shields.io/badge/GAMES103-HW-yellow)](https://Nikucyan.github.io/sources/Notebooks/Graphics/GAMES103_Homework) [Course Site](http://games-cn.org/games103/)  [Lecture Videos](https://www.bilibili.com/video/BV12Q4y1S73g) 
-  
-- **GAMES202 - Advanced Physics Engine / Taichi Graphic Course S1**
-
-  [![Badge](https://img.shields.io/badge/Taichi-Repo-informational)](https://github.com/Nikucyan/Notes_of_Graphics/tree/main/Taichi)  [![Badge](https://img.shields.io/badge/Taichi-Notes-red)](https://nikucyan.github.io/sources/Notebooks/Graphics/Taichi_Graphics.html) [Course GitHub](https://github.com/taichiCourse01/taichiCourse01)  [Lecture Videos](https://space.bilibili.com/1779922645/channel/seriesdetail?sid=337716&ctype=0)
+- GAMES101 - Introduction to Modern Computer Graphics
+- GAMES103 - Introduction to Physics-Based Animation
+- GAMES201 - Advanced Physics Engine / Taichi Graphics Course S1
 
 ---
 
 ## Computational Fluid Dynamics
 
-- **Fluid Dynamics (Review)**
+- **Fluid Dynamics (Review)** [中]
 
 - **Advection / Diffusion in CFD**
 
   [![Badge](https://img.shields.io/badge/Adv_Diff-Notes-red)](https://nikucyan.github.io/sources/Notebooks/CFD/Adv_Diff.html) [Videos](https://www.bilibili.com/video/BV13E411B7bK)
 
-- **Finite Volume Method in CFD**
+- **Finite Volume Method in CFD** 
 
 - **OpenFOAM** 
 
