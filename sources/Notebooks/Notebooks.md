@@ -8,6 +8,8 @@
 
 This page hosts my notes and some homeworks in **computer graphics**. These courses are mainly from *GAMES (Graphics and Mixed Environment Seminar)* and *Taichi Graphics Course*. The major topics are **rendering** and **physics-based animations**.
 
+> Keywords: computer graphics, rendering, physics-based animations, real-time rendering, engines
+
 Following notebooks are updating:
 
 - GAMES101 - Introduction to Modern Computer Graphics
@@ -16,17 +18,17 @@ Following notebooks are updating:
 
 ---
 
-## Computational Fluid Dynamics
+## [Computational Fluid Dynamics](https://nikucyan.github.io/sources/Notebooks/CFD/index) 
 
-- **Fluid Dynamics (Review)** [中]
+This page hosts my notes (maybe with codes) in **computational fluid dynamics**. 
 
-- **Advection / Diffusion in CFD**
+> Keywords: scientific computation, fluid dynamics, numerical methods, PDEs, multiphase flows
 
-  [![Badge](https://img.shields.io/badge/Adv_Diff-Notes-red)](https://nikucyan.github.io/sources/Notebooks/CFD/Adv_Diff.html) [Videos](https://www.bilibili.com/video/BV13E411B7bK)
-
-- **Finite Volume Method in CFD** 
-
-- **OpenFOAM** 
+- Fluid Dynamics (Review) 
+- Advection / Diffusion in CFD   
+- Finite Volume Method in CFD 
+- OpenFOAM 
+- Polydisperse Multiphase Flows   
 
 ---
 
