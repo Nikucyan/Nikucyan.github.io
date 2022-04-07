@@ -14,7 +14,9 @@ Following notebooks are updating:
 
 - GAMES101 - Introduction to Modern Computer Graphics
 - GAMES103 - Introduction to Physics-Based Animation
+- GAMES104 - Modern Game Engines
 - GAMES201 - Advanced Physics Engine / Taichi Graphics Course S1
+- GAMES202 - Real-Time High Quality Rendering [UPDATING]
 
 ---
 
@@ -29,6 +31,7 @@ This page hosts my notes (maybe with codes) in **computational fluid dynamics**.
 - Finite Volume Method in CFD 
 - OpenFOAM 
 - Polydisperse Multiphase Flows   
+- Turbulence
 
 ---
 
